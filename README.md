@@ -1,5 +1,6 @@
 # Sales-Insights-Project
 
+## SQL Data Cleaning
 Show all customer records
 
 SELECT * FROM customers;
